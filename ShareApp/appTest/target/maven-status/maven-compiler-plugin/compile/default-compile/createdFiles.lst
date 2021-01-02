@@ -1,0 +1,7 @@
+com\dyson\pages\BasePage.class
+com\dyson\data\ANDROIDConfig.class
+com\dyson\pages\InternetConnectionPage.class
+com\dyson\driver\AndroidAppiumDriver.class
+com\dyson\pages\PageFactory.class
+com\dyson\pages\DataCollectionPage.class
+com\dyson\pages\WeatherDataPage.class

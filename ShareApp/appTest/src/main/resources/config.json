@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "platformVersion": "7.1.2",
+  "deviceName": "HTC",
+  "automationName": "UiAutomator2",
+  "appPath": "D:\\ShareApp\\appTest\\src\\test\\resources\\stock-market-tracker_1.8.2.apk",
+  "appPackage": "com.savved.uptick",
+  "appActivity":"com.savved.uplift.MainActivity"
+}

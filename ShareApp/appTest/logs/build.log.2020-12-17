@@ -1,0 +1,4 @@
+2020-12-16 21:16:11:078 ERROR AppiumDriverForAndroid: Android Appium config is not defined[Ljava.lang.StackTraceElement;@10683d9d
+2020-12-16 21:51:28:598 ERROR AppiumDriverForAndroid: Android Appium config is not defined[Ljava.lang.StackTraceElement;@747edf66
+2020-12-16 21:56:29:562 ERROR AppiumDriverForAndroid: Android Appium config is not defined[Ljava.lang.StackTraceElement;@79da8dc5
+2020-12-17 08:42:33:022 ERROR AppiumDriverForAndroid: Exception raised while initialising Android Driver[Ljava.lang.StackTraceElement;@2dbe250d
